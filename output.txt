@@ -1,0 +1,24 @@
+visiting node: 1
+visiting node: 2
+visiting node: 3
+visiting node: 10
+visiting node: 4
+visiting node: 5
+visiting node: 9
+visiting node: 11
+visiting node: 12
+visiting node: 6
+visiting node: 7
+visiting node: 8
+Level of 1: 0
+Level of 2: 1
+Level of 3: 1
+Level of 4: 2
+Level of 5: 2
+Level of 6: 3
+Level of 7: 3
+Level of 8: 4
+Level of 9: 2
+Level of 10: 1
+Level of 11: 2
+Level of 12: 2
